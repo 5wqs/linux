@@ -3,5 +3,5 @@ using namespace std;
 int main ()
 {
     cout<<"wqs";
-    return;
+    return 0;
 }
