@@ -2,6 +2,7 @@
 using namespace std;
 int main ()
 {
-    cout<<"wqs";
+    cout<<"vscode"<<endl;
+    cout<<"test";
     return 0;
 }
